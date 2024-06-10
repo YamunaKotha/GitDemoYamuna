@@ -12,8 +12,9 @@ public class TestClass1 extends BaseTest{
 	@Test
 	public void testcase1() throws IOException
 	{
-		
+		System.out.println("code pushed from new project");
 		Assert.assertTrue(false);
+		
 	}
 
 }
