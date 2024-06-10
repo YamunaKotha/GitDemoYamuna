@@ -16,6 +16,7 @@ public class TestClass1 extends BaseTest{
 		Assert.assertTrue(false);
 		
 		System.out.println("code changed in original project");
+		System.out.println("code changes from new project develop branch");
 	}
 
 }
